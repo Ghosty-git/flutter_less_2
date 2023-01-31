@@ -49,11 +49,11 @@ class FirstScreen extends StatelessWidget {
                 width: 100,
                 height: 100,
                 decoration: BoxDecoration(
-                    color: Colors.black,
+                    color: Colors.white,
                     borderRadius: BorderRadius.circular(75)),
                 child: const Text(
                   "1",
-                  style: TextStyle(color: Colors.white, fontSize: 60),
+                  style: TextStyle(color: Colors.black, fontSize: 48),
                 ),
               ),
             ],
